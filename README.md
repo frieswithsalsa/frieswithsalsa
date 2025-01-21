@@ -8,5 +8,4 @@ Frontend Developer inspired by code, always exploring new technologies to enhanc
 
 * 🌍  I'm based in Kaliningrad
 * ✉️  You can contact me at [romansedin@hotmail.com](mailto:romansedin@hotmail.com)
-* 🧠  I'm learning React
 
